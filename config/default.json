@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://gagan123:gagan123@cluster0.thkwa.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "secret": "Smooth"
+}
